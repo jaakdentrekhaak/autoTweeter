@@ -1,7 +1,7 @@
 # Author: Jens Putzeys
 # Date: 22-12-2020 (DD-MM-YYYY)
 # I wrote this small program in a quarter of an hour to try to win one of the 100 iPhone12's from UnboxTherapy, but failed after two accounts
-# got banned from Twitter after sending too many messages :(
+# got temporarily disabled for a few hours after sending too many messages :(
 # Update: wrote some documentation
 
 from selenium import webdriver
